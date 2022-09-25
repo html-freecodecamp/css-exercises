@@ -1,0 +1,19 @@
+.odd{
+    background-color: rgb(231, 136, 155);
+    font-family: "Verdana","DejaVu Sans", "sans-serif";
+}
+
+#eventwo{
+    color:blue;
+    font-size: 36px;
+}
+
+.three{
+    font-size: 24px;
+}
+
+#evenfour{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
